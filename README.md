@@ -1,5 +1,5 @@
 # Multiclass_Regression_Classifier
-Uses softmax regression to perform multiclass classification
+Uses softmax regression to perform multiclass classification. Written by Steven Wojsnis
 
 
 A multiclass classifier built from scratch. Uses multinomial regression (softmax regression) for classification. This classifier is
@@ -19,3 +19,7 @@ were performed using matrix operations, such as numpy's dot product. This dramat
 
 Different runtime options (such as model-training method and dataset are selected via command line arguments / runtime inputs. See the 
 Softmax_regression_readme.txt file for instructions on how to run the program and choose these different options.
+
+After training the model the program then tests the model on a section of the dataset. The accuracy of that test is shown as output.
+Additionally, plots showing the calculated loss over the training process are generated and shown.
+
