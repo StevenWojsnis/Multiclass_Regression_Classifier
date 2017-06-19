@@ -1,3 +1,5 @@
+# Written by Steven Wojsnis
+
 from sklearn import datasets
 from sklearn import decomposition
 import matplotlib.pyplot as plt
