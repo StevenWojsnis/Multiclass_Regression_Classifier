@@ -5,13 +5,6 @@
 ###################
 
 
-1. I finished all problems: (Math (included as pdf files), Steepest descent of iris, mnist, and cifar-10, 
-	Quasi-Newton of iris, mnist, and cifar-10. Note, cifar-10 uses PCA).
-2. Python Version: 2.7
-
-3. Platform: Mac
-
-
 *NOTE* Softmax_Derivation.pdf shows the derivation of the softmax function, while Loss_Function_Derivation.pdf
 shows the derivation of the loss function as a whole, which uses the softmax derivation.
 
